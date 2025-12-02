@@ -1,0 +1,36 @@
+Unnamed: 0,This page provides definitions for all columns included in this export. Please reach out to us at inclusivegrowthscore@mastercard.com with any questions!,Unnamed: 2
+,Field,Definition
+,,
+0.0,Census Tract FIPS code,Census Tract unique code
+1.0,YEAR,"Inclusive Growth Score year of data, see methodology document for full details"
+2.0,URBAN CODE,Value from 1 to 9 corresponding with the USDA Rural Urban Continuum Code
+3.0,STATE,State corresponding with the census tract (identifiable through first two digits of FIPS Code)
+4.0,COUNTY,County corresponding with the census tract (identifiable through first five digits of FIPS Code)
+5.0,CENSUS TRACT DESIGNATION,Whether or not a census tract is a Qualified Opportunity Zone
+6.0,BENCHMARK,"Which geographies the ranking is relative to (USA, state, urban-rural)"
+7.0,Score,"Percentile rank for metric, pillar, metric type, or total "
+8.0,%,Metric value for census tract
+9.0,Benchmark,"Metric value for benchmark grouping of tracts (USA, state, urban-rural)"
+10.0,Place,"Average score of metrics in the place pillar representing housing, infrastructure, and built environment"
+11.0,Economy,"Average score of metrics in the economy pillar representing business growth, jobs and spending"
+12.0,Community,Average score of metrics in the community pillar representing economic and social conditions
+13.0,Inclusion,Average score of inclusion metrics representing level of access to key resources 
+14.0,Growth,Average score of growth metrics representing change of community 
+15.0,Female Above Poverty,Inclusion: Percentage of females living above the poverty line
+16.0,Early Education Enrollment,Inclusion: Share of population under 5 years old that is enrolled in an early education program
+17.0,Health Insurance Coverage,Inclusion: Percentage of eligible population with health insurance coverage
+18.0,Gini Coefficient,Inclusion: Gini coefficient of income inequality (lower coefficient denotes lower inequality)
+19.0,Personal Income,Growth: Growth of per capita income
+20.0,Spending Per Capita,Growth: Growth of average spend per person based on aggregated and anonymized indexed transaction data within the designated zone
+21.0,Labor Market Engagement Index,"Inclusion: Employment, labor force participation, and % with bachelor degree"
+22.0,Commercial Diversity,Inclusion: Business types as percentage of total possible business types
+23.0,Minority Women Owned Businesses,Inclusion: Minority or women owned businesses as a percentage of all businesses
+24.0,Spend Growth,Inclusion: Growth of spending based on aggregated and anonymized indexed transaction data within the designated zone
+25.0,Small Business Loans,Growth: Growth of the number of small business loans
+26.0,New Businesses,Growth: Growth of net new businesses based on aggregated and anonymized transaction data
+27.0,Affordable Housing,Inclusion: Percentage of renter and owner occupied housing units where monthly costs are lower than 30 percent of income
+28.0,Internet Access,Inclusion: Percentage of households with an internet subscription
+29.0,Travel Time To Work,Inclusion: Percentage of workers with travel time to work under 35 minutes
+30.0,Acres Of Park Land,Inclusion: Percentage of designated tract land area that is park land
+31.0,Net Occupancy,Growth: Growth in the population of renter and owner occupied housing units
+32.0,Res Real Estate Value,Growth: Growth of value of residential real estate
